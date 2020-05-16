@@ -1,3 +1,5 @@
+alert("welcome to Refresh me ");
+
 var name1 = prompt("enter name of player 1");
 var name2 = prompt("enter the name of player 2");
 var change1 = document.querySelector(".vv");
